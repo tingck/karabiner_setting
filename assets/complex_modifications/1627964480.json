@@ -1,0 +1,1 @@
+{"title":"vscode map caps to esc","rules":[{"description":"Change capslock to esc","manipulators":[{"conditions":[{"bundle_identifiers":["com\\.microsoft\\.VSCode","com\\.microsoft\\.VSCodeInsiders"],"type":"frontmost_application_if"}],"from":{"key_code":"caps_lock","modifiers":{"optional":["any"]}},"to":[{"key_code":"escape","repeat":false}],"type":"basic"}]}]}
